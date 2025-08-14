@@ -1,0 +1,16 @@
+{
+  "leaderboard": "<!-- Main Ad System Leaderboard Ad Code Here -->",
+  "chat_leaderboard": "<!-- Chat System Leaderboard Ad Code Here -->",
+  "sliding": "<!-- Main Ad System Sliding Ad Code Here -->",
+  "chat_sliding": "<!-- Chat System Sliding Ad Code Here -->",
+  "footer_mobile": "<!-- Footer Mobile Ad Code Here -->",
+  "listing_mobile": [
+    "<!-- Listing Mobile Ad Code 1 -->",
+    "<!-- Listing Mobile Ad Code 2 -->",
+    "<!-- Listing Mobile Ad Code 3 -->"
+  ],
+  "adpage_bottom": "<!-- Ad Details Page Bottom Ad Code Here -->",
+  "chat_mobile_1": "<!-- Chat Mobile Ad 1 Code Here -->",
+  "chat_mobile_2": "<!-- Chat Mobile Ad 2 Code Here -->"
+}
+
